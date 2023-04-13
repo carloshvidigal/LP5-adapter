@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3f71178-b547-452e-8521-3078d708298c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/adapter/CoffeeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b3f71178-b547-452e-8521-3078d708298c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
